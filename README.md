@@ -22,7 +22,7 @@
 
 <p align="center">
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Error404r.Error404r" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Error404m.Error404r" />
 
 </p>
 
